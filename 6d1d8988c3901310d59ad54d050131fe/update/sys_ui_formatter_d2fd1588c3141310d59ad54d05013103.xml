@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_formatter">
+    <sys_ui_formatter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <angular_module/>
+        <formatter>activities.xml</formatter>
+        <name>Activities</name>
+        <seismic_component/>
+        <sys_class_name>sys_ui_formatter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-28 02:30:58</sys_created_on>
+        <sys_id>d2fd1588c3141310d59ad54d05013103</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Activities</sys_name>
+        <sys_package display_value="Mentorship Program" source="x_758262_mentors_0">6d1d8988c3901310d59ad54d050131fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mentorship Program">6d1d8988c3901310d59ad54d050131fe</sys_scope>
+        <sys_update_name>sys_ui_formatter_d2fd1588c3141310d59ad54d05013103</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-28 02:30:58</sys_updated_on>
+        <table>x_758262_mentors_0_mentorship_session</table>
+        <type>formatter</type>
+        <widget/>
+    </sys_ui_formatter>
+</record_update>
